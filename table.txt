@@ -1,0 +1,14 @@
+ _______________________________ 
+|Afrikaans:|English:            |
+|__________|____________________|
+|sis       |Hiss(snake)         |
+|brul      |Roar(lion)          |
+|kraai     |Crow(rooster)       |
+|koer      |Coo(dove)           |
+|blêr      |Bleat(goat)         |
+|blaf      |bark(dog)           |
+|trompetter|Trumpet(elephant)   |
+|kekkel    |cackling(hen/goose) |
+|runnik    |bellow(horse)       |
+|bulk      |low/bellow/moo(cow) |
+|__________|____________________|
